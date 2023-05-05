@@ -1,7 +1,7 @@
 
 # Hi, I'm Rizky Fahrezi! 👋
 
-https://rzkyfhrzi21.github.io/
+https://rzkyfhrzi21.github.io/love-you/
 # Love You
 
 Repo project yang bernama Love You. Dibuat oleh NomiSec07 lalu saya clone dan ubah sedikit.
