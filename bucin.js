@@ -1,5 +1,5 @@
 pesanAkhir1 = inip[iden];
-pesanAkhir3 = "<br>thank you, and i love uuu";
+pesanAkhir3 = "<br>Thank you, and I love uuu ❤❤";
 
 document.getElementById("loveIn").onclick = function() {
       if(fungsiAwal==0){
@@ -93,7 +93,7 @@ document.getElementById("bq").onclick = function() {
     window.jawaban = jawaban;
     pesanwhatsapp = jawaban;
     await swals.fire('OK!', 'Kirim jawabannya ke WhatsApp aku, ya!', 'success');
-    window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;
+    window.location = "https://api.whatsapp.com/send?phone=6285173200421&text=" + pesanwhatsapp;
     tombol();
   } else {
     await swals.fire('Ups!', 'Jawaban tidak boleh kosong atau lebih dari 18 karakter, ya!');jawab();
