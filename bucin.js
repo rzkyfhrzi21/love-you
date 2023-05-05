@@ -1,5 +1,5 @@
 pesanAkhir1 = inip[iden];
-pesanAkhir3 = "<br>Thank you, and I love uuu ❤❤";
+pesanAkhir3 = "<br>Thank you, and I love uuu";
 
 document.getElementById("loveIn").onclick = function() {
       if(fungsiAwal==0){
