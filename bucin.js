@@ -96,6 +96,6 @@ document.getElementById("bq").onclick = function() {
     window.location = "https://api.whatsapp.com/send?phone=6285173200421&text=" + pesanwhatsapp;
     tombol();
   } else {
-    await swals.fire('Ups!', 'Jawaban tidak boleh kosong atau lebih dari 18 karakter, ya!');jawab();
+    await swals.fire('Ups!', 'Jawaban tidak boleh lebih dari 18 karakter ya!'); jawab();
   }
 }
